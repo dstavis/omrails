@@ -1,15 +1,4 @@
-== Welcome to Rails
- /********************@
-|                    |
-|  This is the readme|
-| for CalendarBuffer |
-|  v 0.01            |
-|                    |
-|   Made with omrails|
-|     by David Stavis|
-|                    |
-|                    |
-|                    |
-|  ps                |
-|    this is a scroll\
- \********************@
+# Calendar Buffer
+version 0.01
+
+Made with One-Month Rails by David Stavis.
